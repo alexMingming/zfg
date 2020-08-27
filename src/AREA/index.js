@@ -84,7 +84,7 @@ class App extends React.Component {
           // stroke: 'l(90) 0:#5B74FF 1:#E4E8FF',
           fillOpacity: 0.85,
         })
-        
+        // console.log('测试git提交！')
         // chart.interaction('element-range-active');
         // chart.interaction('tooltip');
         // chart.interaction('element-highlight');
